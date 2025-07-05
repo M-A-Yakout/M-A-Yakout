@@ -143,7 +143,7 @@ SQL              ██████████░░░░░░░░░░░
 ## 🎯 Current Goals
 
 - 🔭 Building high-performance, scalable applications with modern technologies
-- 🎮 Developing gaming software (FPS Genre) and AeroGuard application
+- 🎮 eveloping software apps and Android applications
 - 📚 Advancing cloud computing skills (AWS, Azure) and DevOps practices
 - 🌱 Contributing to open source projects and collaborative development
 - 💡 Exploring advanced software architecture and system design
