@@ -217,10 +217,14 @@ current_status:
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## 🐍 Contribution Snake
+## 🔥 Contribution Heatmap
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/M-A-Yakout/M-A-Yakout/output/snake.svg" alt="Snake animation" />
+  <img src="https://ghchart.rshah.org/00D9FF/M-A-Yakout" alt="GitHub Contribution Chart" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-A-Yakout&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0D1117" alt="Contribution Streak"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
