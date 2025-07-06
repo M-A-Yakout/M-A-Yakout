@@ -37,7 +37,7 @@ const MohamedMostafa = {
     name: "Mohamed Mostafa",
     title: "Software Engineer & Full Stack Developer",
     location: "Alexandria, Egypt 🇪🇬",
-    education: "Software Engineering Student (2024-2027)",
+    education: "Software Engineering Student (2023-2027)",
     
     languages: {
         expert: ["JavaScript", "Python", "Java"],
