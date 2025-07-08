@@ -10,7 +10,7 @@
 
 ## 👋 About Me
 
-I'm a passionate **Software Engineer** and **Full Stack Developer** currently pursuing Software Engineering (2023-2027) in Alexandria, Egypt. With expertise in multiple programming languages and modern development frameworks, I specialize in building scalable web applications, mobile solutions, and innovative software systems.
+I'm a passionate **Software Engineer** and **Full Stack Developer** currently pursuing Software Engineering (2024-2027) in Alexandria, Egypt. With expertise in multiple programming languages and modern development frameworks, I specialize in building scalable web applications, mobile solutions, and innovative software systems.
 
 **Key Highlights:**
 - 💻 **3+ years** of software development experience
