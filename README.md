@@ -1,264 +1,170 @@
-<!--
-██╗░░██╗███████╗██╗░░░░░██╗░░░░░░█████╗░  ██████╗░███████╗██╗░░░██╗░██████╗██╗
-██║░░██║██╔════╝██║░░░░░██║░░░░░██╔══██╗  ██╔══██╗██╔════╝██║░░░██║██╔════╝██║
-███████║█████╗░░██║░░░░░██║░░░░░██║░░██║  ██║░░██║█████╗░░╚██╗░██╔╝╚█████╗░██║
-██╔══██║██╔══╝░░██║░░░░░██║░░░░░██║░░██║  ██║░░██║██╔══╝░░░╚████╔╝░░╚═══██╗╚═╝
-██║░░██║███████╗███████╗███████╗╚█████╔╝  ██████╔╝███████╗░░╚██╔╝░░██████╔╝██╗
-╚═╝░░╚═╝╚══════╝╚══════╝╚══════╝░╚════╝░  ╚═════╝░╚══════╝░░░╚═╝░░░╚═════╝░╚═╝
--->
+# Mohamed Mostafa | Software Engineer & Full Stack Developer
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=1000&lines=Hello+World!+I'm+Mohamed+Mostafa+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Software+Engineer+%F0%9F%92%BB;Building+Scalable+Applications+%F0%9F%8C%9F;Always+Learning+New+Technologies+%F0%9F%94%A5)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Website-00D9FF?style=for-the-badge&logoColor=white)](https://cv-mohamed.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_with_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mostafa-ab38aa317)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ashraf.y.s.m@gmail.com)
-[![YouTube](https://img.shields.io/badge/YouTube-Watch_My_Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Fox_Store722)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-mostafa-ab38aa317)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://cv-mohamed.vercel.app/)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ashraf.y.s.m@gmail.com)
 
 </div>
 
-<br/>
+## 👋 About Me
 
-<div align="center">
-  <img height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
-</div>
+I'm a passionate **Software Engineer** and **Full Stack Developer** currently pursuing Software Engineering (2023-2027) in Alexandria, Egypt. With expertise in multiple programming languages and modern development frameworks, I specialize in building scalable web applications, mobile solutions, and innovative software systems.
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+**Key Highlights:**
+- 💻 **3+ years** of software development experience
+- 🎯 **Full Stack Expertise** in modern web technologies
+- 📱 **Mobile Development** with React Native & Flutter
+- ☁️ **Cloud Computing** experience with AWS, Azure, and Google Cloud
+- 🎮 **Game Development** using Unity and Unreal Engine
+- 🚀 **DevOps & CI/CD** implementation experience
 
-## 🚀 About Me
+---
 
-<div align="center">
-  
-```typescript
-const MohamedMostafa = {
-    name: "Mohamed Mostafa",
-    title: "Software Engineer & Full Stack Developer",
-    location: "Alexandria, Egypt 🇪🇬",
-    education: "Software Engineering Student (2023-2027)",
-    
-    languages: {
-        expert: ["JavaScript", "Python", "Java"],
-        proficient: ["C#", "TypeScript", "SQL"],
-        learning: ["Go", "Rust"]
-    },
-    
-    expertise: {
-        frontend: ["React", "Next.js", "Vue.js", "HTML5", "CSS3", "Tailwind"],
-        backend: ["Node.js", "Spring Boot", "Express.js", "FastAPI"],
-        cloud: ["AWS", "Azure", "Google Cloud"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL", "Redis"],
-        tools: ["Docker", "Kubernetes", "Jenkins", "GitHub Actions"],
-        mobile: ["React Native", "Flutter"],
-        gamedev: ["Unity", "Unreal Engine"]
-    },
-    
-    currentProjects: [
-        "🎮 Gaming Software Development",
-        "📱 AeroGuard Application",
-        "🌐 Scalable Web Applications",
-        "🤖 AI-Powered Solutions"
-    ],
-    
-    goals: "Building innovative solutions that make a difference",
-    motto: "Code with passion, build with purpose! 💻✨"
-};
-```
+## 🛠️ Technical Skills
 
-</div>
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+### Frontend Development
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-## 🛠️ Tech Arsenal
+### Backend Development
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
-<div align="center">
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 
-### 🎯 Languages & Frameworks
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+---
 
-### 🗄️ Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-A-Yakout&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-Yakout&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=M-A-Yakout&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=00D9FF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=M-A-Yakout&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF" alt="Activity Graph"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏆 Featured Projects
+## 📊 GitHub Statistics
 
 <div align="center">
   
-[![Video Sharing Platform](https://github-readme-stats.vercel.app/api/pin/?username=M-A-Yakout&repo=website-Video-Sharing-Platform&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF)](https://github.com/M-A-Yakout/website-Video-Sharing-Platform)
-[![JAMES STORE](https://github-readme-stats.vercel.app/api/pin/?username=M-A-Yakout&repo=JAMES-STORE&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF)](https://github.com/M-A-Yakout/JAMES-STORE)
-
-[![Game Project](https://github-readme-stats.vercel.app/api/pin/?username=M-A-Yakout&repo=GAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF)](https://github.com/M-A-Yakout/GAME)
-[![Web Practice](https://github-readme-stats.vercel.app/api/pin/?username=M-A-Yakout&repo=-ALLPractical-work-WEB&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF)](https://github.com/M-A-Yakout/-ALLPractical-work-WEB)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💻 Weekly Development Breakdown
-
-<div align="center">
-
-```text
-🔥 Most Used Languages:
-JavaScript     ██████████████████████████████████████████████████   89.5%
-Python         ██████████████████████████████████████████████       82.3%
-Java           ████████████████████████████████████████████         76.8%
-C#             ████████████████████████████████████████             71.2%
-TypeScript     ██████████████████████████████████████               67.4%
-SQL            ██████████████████████████████████                   58.9%
-```
-
-```text
-⚡ Development Focus:
-Full Stack Development    ████████████████████████████████████████████████████████   100%
-Game Development         ██████████████████████████████████████████████████████     95%
-Cloud Computing          ████████████████████████████████████████████████          85%
-Mobile Development       ██████████████████████████████████████████████            80%
-DevOps & CI/CD          ████████████████████████████████████████████              75%
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🎯 Current Goals & Achievements
-
-<div align="center">
-
-| 🎯 **Goals** | ✅ **Achievements** |
-|:---:|:---:|
-| 🚀 Building scalable applications | 💻 Multiple full-stack projects |
-| 🎮 Developing gaming software | 🎮 Game development expertise |
-| 📱 Creating mobile applications | 📱 AeroGuard app development |
-| ☁️ Mastering cloud technologies | ☁️ AWS & Azure certifications |
-| 🤖 Exploring AI/ML integration | 🤖 AI-powered solutions |
-| 🏆 Contributing to open source | 🌟 Active GitHub contributor |
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M-A-Yakout&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="GitHub Trophies"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🌟 What I'm Up To
-
-<div align="center">
-
-```yaml
-current_status:
-  - 🔭 Working on: High-performance scalable applications
-  - 🎮 Developing: Gaming software & mobile applications  
-  - 🌱 Learning: Advanced cloud architecture & AI/ML
-  - 👯 Looking to: Collaborate on innovative projects
-  - 💬 Ask me about: Full-stack development, game dev, cloud computing
-  - 📫 Reach me at: mohamed.ashraf.y.s.m@gmail.com
-  - ⚡ Fun fact: I love building things that solve real problems!
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 💡 Daily Inspiration
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true" alt="Random Dev Quote"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 🔥 Contribution Heatmap
-
-<div align="center">
-  <img src="https://ghchart.rshah.org/00D9FF/M-A-Yakout" alt="GitHub Contribution Chart" width="100%"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-A-Yakout&theme=tokyonight&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&background=0D1117" alt="Contribution Streak"/>
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## 📈 Profile Analytics
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=M-A-Yakout&label=Profile%20Views&color=00D9FF&style=for-the-badge)
-![GitHub Followers](https://img.shields.io/github/followers/M-A-Yakout?label=Followers&style=for-the-badge&color=00D9FF)
-![GitHub Stars](https://img.shields.io/github/stars/M-A-Yakout?label=Stars&style=for-the-badge&color=00D9FF)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=M-A-Yakout&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-A-Yakout&layout=compact&theme=default&hide_border=true"/>
 
 </div>
 
 ---
 
+## 🚀 Featured Projects
+
+### 🎥 [Video Sharing Platform](https://github.com/M-A-Yakout/website-Video-Sharing-Platform)
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB  
+**Description:** A full-featured video sharing platform with user authentication, video upload/streaming, and real-time comments.
+- **Features:** User management, video processing, responsive design
+- **Architecture:** RESTful API, microservices pattern
+- **Performance:** Optimized for high traffic and scalability
+
+### 🛍️ [JAMES STORE - E-commerce Platform](https://github.com/M-A-Yakout/JAMES-STORE)
+**Tech Stack:** React.js, Node.js, PostgreSQL, Stripe API  
+**Description:** Modern e-commerce solution with complete shopping experience and payment integration.
+- **Features:** Product catalog, shopping cart, payment processing, admin dashboard
+- **Security:** JWT authentication, data encryption, secure payment processing
+- **Performance:** Fast loading, optimized database queries
+
+### 🎮 [Game Development Project](https://github.com/M-A-Yakout/GAME)
+**Tech Stack:** Unity, C#, Game Design Patterns  
+**Description:** Interactive game showcasing advanced programming concepts and game development skills.
+- **Features:** Physics engine integration, AI behavior, user interface design
+- **Architecture:** Component-based design, state management
+- **Performance:** Optimized rendering and memory management
+
+### 🌐 [Full Stack Web Development Portfolio](https://github.com/M-A-Yakout/-ALLPractical-work-WEB)
+**Tech Stack:** Multiple frameworks and technologies  
+**Description:** Collection of web development projects demonstrating various technical skills.
+- **Features:** Responsive design, modern UI/UX, API integration
+- **Technologies:** React, Vue.js, Node.js, various databases
+- **Best Practices:** Clean code, documentation, testing
+
+---
+
+## 💼 Professional Experience
+
+### 🔧 Current Focus Areas
+- **Full Stack Development:** Building scalable web applications with modern frameworks
+- **Mobile Development:** Creating cross-platform mobile applications
+- **Cloud Computing:** Implementing cloud-native solutions and DevOps practices
+- **Game Development:** Developing interactive entertainment software
+- **AI Integration:** Exploring machine learning and AI-powered applications
+
+### 📈 Development Approach
+- **Agile Methodology:** Experience with Scrum and Kanban workflows
+- **Clean Code:** Following SOLID principles and best practices
+- **Testing:** Unit testing, integration testing, and TDD approaches
+- **Documentation:** Comprehensive technical documentation and API documentation
+- **Performance:** Code optimization and performance monitoring
+
+---
+
+## 🎓 Education & Learning
+
+**Software Engineering Student** (2023-2027)  
+*Alexandria, Egypt*
+
+**Continuous Learning:**
+- Advanced cloud architecture and microservices
+- Machine learning and artificial intelligence
+- Modern DevOps practices and automation
+- Mobile development technologies
+- Game development and interactive media
+
+---
+
+## 🏆 Achievements & Certifications
+
+- **Multiple Full Stack Projects** deployed to production
+- **Cloud Computing** hands-on experience with AWS, Azure, and Google Cloud
+- **Game Development** expertise with Unity and Unreal Engine
+- **Open Source Contributions** to various projects
+- **Mobile App Development** with React Native and Flutter
+
+---
+
+## 📞 Let's Connect
+
+I'm always interested in discussing new opportunities, collaborative projects, and innovative solutions. Feel free to reach out!
+
+**Contact Information:**
+- 📧 **Email:** mohamed.ashraf.y.s.m@gmail.com
+- 💼 **LinkedIn:** [Mohamed Mostafa](https://www.linkedin.com/in/mohamed-mostafa-ab38aa317)
+- 🌐 **Portfolio:** [cv-mohamed.vercel.app](https://cv-mohamed.vercel.app/)
+- 📺 **YouTube:** [Fox Store](https://www.youtube.com/@Fox_Store722)
+
+---
+
 <div align="center">
   
-![Thank You](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Feel+free+to+connect+and+collaborate!+%F0%9F%A4%9D)
+**"Building innovative solutions with clean code and scalable architecture"**
 
-<br/>
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-
-**I love connecting with fellow developers and tech enthusiasts!** 
-
-*If you want to say hi, discuss a project, or just chat about technology, I'll be happy to meet you!* 😊
-
-<br/>
-
-[![Let's Connect](https://img.shields.io/badge/Let's_Connect-00D9FF?style=for-the-badge&logo=handshake&logoColor=white)](https://www.linkedin.com/in/mohamed-mostafa-ab38aa317)
-[![Collaborate](https://img.shields.io/badge/Collaborate-28A745?style=for-the-badge&logo=github&logoColor=white)](https://github.com/M-A-Yakout)
-[![Get In Touch](https://img.shields.io/badge/Get_In_Touch-DC382D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.ashraf.y.s.m@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=M-A-Yakout&color=blue&style=flat-square)
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
