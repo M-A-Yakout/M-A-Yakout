@@ -107,7 +107,7 @@
 
 ## 📈 Professional Journey
 
-**🎓 Software Engineering Student** | *2023-2027* | Alexandria, Egypt
+**🎓 Software Engineering Student** | *2024-2027* | Alexandria, Egypt
 
 **💼 Key Expertise Areas:**
 - ✅ Full-stack web application development
