@@ -22,7 +22,7 @@
 🔥 **Passionate Software Engineer** specializing in full-stack development with expertise across the entire technology stack. I love turning complex problems into simple, beautiful solutions that make a real impact.
 
 📍 **Location:** Alexandria, Egypt  
-🎓 **Education:** Software Engineering Student (2023-2027)  
+🎓 **Education:** Software Engineering Student (2024-2027)  
 💼 **Experience:** 3+ years in software development  
 🎯 **Current Focus:** Full Stack Development • Cloud Architecture • Mobile Apps  
 💡 **Motto:** "Clean code, scalable solutions, innovative thinking"
